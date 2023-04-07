@@ -1,2 +1,5 @@
 로봇 착유기 데이터 재분석
 2023-04-07 start
+Body weight prediction model 작성
+Body weight의 절대값은 개체별로 차이가 난다. 
+이에 1산차 분만시점의 체중을 600 kg로 고정하고 데이터를 비율로 조정함
